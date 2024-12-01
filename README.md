@@ -1,4 +1,4 @@
-### **Okarun-md**
+w### **Okarun-md**
 
 
 ```**WHATSAPP BOT MULTI DEVICE CODED BY CYBER TECH ☢️*```
@@ -11,7 +11,7 @@
 
 
 
-[![FORK OKARUN_MD](https://img.shields.io/badge/FORK%20-OKARUN%20MD-white)](github.com/Lordhades-qp/Okarun-md/fork)
+### [![FORK OKARUN_MD](https://img.shields.io/badge/FORK%20-OKARUN%20MD-white)](github.com/Lordhades-qp/Okarun-md/fork)
 
 -------
 
