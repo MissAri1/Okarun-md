@@ -4,6 +4,13 @@
 ```**WHATSAPP BOT MULTI DEVICE CODED BY CYBER TECH ☢️*```
 
 
+
+![okarun-turbo-form](https://github.com/user-attachments/assets/7193e9c4-ba40-4ff4-9e7a-141852f4fd22)
+
+
+
+
+
 [![FORK OKARUN_MD](https://img.shields.io/badge/FORK%20-OKARUN%20MD-white)](github.com/Lordhades-qp/Okarun-md/fork)
 
 -------
@@ -13,14 +20,7 @@
 
 <br>
 
---------
 
-
-
-[!FORK OKARUN MD](https://img.shields.io/badge/FORK%20-KERM%20MD%20V4-white)](github.com/Lordhades-qp/Okarun-md/fork)
-
-
-<br>
 
 --------
 
