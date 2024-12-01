@@ -24,7 +24,7 @@ w### **Okarun-md**
 
        
 <p align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ OKARUN-+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CYBER TECH ☢️;202420%+DECEMBER20%." alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+•★⃝ OKARUN-+MD★⃝•;MULTI-DEVICE+WHATSAPP+BOT;DEVELOPED+BY+CYBER TECH ☢️;DECEMBER+2024." alt="Typing SVG" /></a>
  </p>
 
 
