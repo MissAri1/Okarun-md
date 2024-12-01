@@ -16,7 +16,7 @@ w### **Okarun-md**
 -------
 
  <p align="center">
-  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`OKARUN+-+MD+-+WHATSAPP+BOT`" alt="">
+  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?color=00008B&center=true&vCenter=true&multiline=false&lines=`ARIMA+FORGER+DU+CLAN+ÉTERNEL`" alt="">
 
 <br>
 
@@ -46,3 +46,11 @@ w### **Okarun-md**
 ---------------
 
 
+[![DEPLOY IN RENDER]
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+
+
+------------
+
+[![https://wa.me/0565647864.com]
+<br
