@@ -31,14 +31,11 @@
 `✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+237xxxxxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ----------
-1. USE SESSION 1.
+. USE SESSION .
 <p align="center">
-<a href="https://la-session-kerm-v4.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
+<a href="https://cyber-tech-session-generator.onrender.com"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:1-black?style=for-the-badge&logo=render"></a>
 <p/>
-2. USE SESSION 2 IF SESSION:1 DOESN'T WORK.
-<p align="center">
-<a href="https://ideological-ag-jekso-e77909a4.koyeb.app/"><img height= "35" title="Author" src="https://img.shields.io/badge/GET SESSION ID:2-black?style=for-the-badge&logo=render"></a>
-<p/>
+
 
 ---------------
 
