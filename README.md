@@ -53,12 +53,11 @@
 
 ------------
 
-## <br>   WHATSAPP
-
+## <br>   ([`WHATSAPP`])
 <a href='https://wa.me/2250565647864.com' target="_blank"><img
 alt='><[![`(0565647864)`]><a' src='https://img.shields.io/badge/WhatsApp-h?
 color=green&style=for-the-badge&logo=WhatsApp'/></a></p>
-
+</p>
 
 ----------
 
@@ -107,7 +106,7 @@ color=green&style=for-the-badge&logo=WhatsApp'/></a></p>
   9. Cliquez sur **Deploy service** et profitez-en !
 
 
- - **Déploiement GitHub**
+ - ## <br>   **DÉPLOIEMENT SUR GITHUB**
 
   1. **Forkez le dépôt**.
   2. Modifiez le fichier `exemple_de_set.env` en `set.env` et ajoutez-y votre **session_ID**.
@@ -151,7 +150,7 @@ jobs:
 
     - name: Start application with timeout
       run: |
-        timeout 14520s npm run zokou
+        timeout 14520s npm run OKARUN
 
 ```
 
@@ -165,4 +164,6 @@ Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.o
 - [**Lord Hadès**](github.com/lordhades-qp/okarun-md)
 - [**᚛CYBER TECH ☢️᚜**]
 - [**ARIMA FORGER**]
+
+-------<br>/alt/<p>
 
