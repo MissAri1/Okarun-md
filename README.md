@@ -1,4 +1,4 @@
-w### **Okarun-md**
+### **OKARUN MD**
 
 
 ```**WHATSAPP BOT MULTI DEVICE CODED BY CYBER TECH ☢️*```
@@ -46,7 +46,8 @@ w### **Okarun-md**
 ---------------
 
 
-[![DEPLOY IN RENDER]<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
+## DEPLOY IN RENDER
+<a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 
 ------------
