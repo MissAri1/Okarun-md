@@ -64,12 +64,12 @@
 ----------
 
 
-- ## <br>  **DÉPLOIEMENT SUR KOYEB** :
+- ## <br>  `**DÉPLOIEMENT SUR KOYEB**` :
   1. Si vous n'avez pas de compte **Koyeb**, cliquez [**ici**](https://dashboard.koyeb.com/signup) pour en créer un.
   2. Cliquez sur le bouton ci-dessous pour déployer sur Koyeb :<br>
      [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=okarun md&type=docker&image=docker.io%2FCYBER TECH ☢️077%2Fokarunmd%3Alatest&env%5BPREFIXE%5D=.&env%5BLECTURE_AUTO_STATUS%5D=oui&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=OKARUN-MD&env%5BLIENS_MENU%5D=https%3A%2F%2Fwallpapercave.com%2Fuwp%2Fuwpuwp4572692.jpeg&env%5BPM_PERMIT%5D=non&env%5BMODE_PUBLIC%5D=non&env%5BETAT%5D=1&env%5BSESSION_ID%5D=mettez+votre+session&env%5BNOM_OWNER%5D=CYBER TECH ☢️%2B%2B&env%5BNUMERO_OWNER%5D=2250565647864&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_VUE_UNIQUE%5D=oui&env%5BPM_CHATBOT%5D=non&env%5BHEROKU%5D=non&env%5BDATABASE_URL%5D=mettez+une+database&env%5BANTI_COMMAND_SPAM%5D=non&ports=8000%3Bhttp%3B%2F)
 
-## <br> **SUGGESTIONS DE DÉPLOIEMENT SUR RENDER**.
+## <br> <p align="center"> `**SUGGESTIONS DE DÉPLOIEMENT SUR RENDER**`.
 
   1.Choisissez **Public Git Repository**.  
   2. Dans le champ , entrez `https://gitlab.com/bankai421341/senbonzakura.git`.
@@ -101,7 +101,7 @@
   9. Cliquez sur **Deploy service** et profitez-en !
 
 
- - ## <br>   **DÉPLOIEMENT SUR GITHUB**
+ - ## <br>/<p align="center">   `**DÉPLOIEMENT SUR GITHUB**`
 
   1. **Forkez le dépôt**.
   2. Modifiez le fichier `exemple_de_set.env` en `set.env` et ajoutez-y votre **session_ID**.
@@ -150,7 +150,7 @@ jobs:
 ```
 
 
-## Licence 📜
+## <p align="center"> Licence 📜
 
 Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
 
@@ -163,7 +163,5 @@ Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.o
 
 <p align="center">
  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
- color=00008&center=true&vcenter=true&multiline=false&lines=`THANK+YOU+FOR+FORK+AND+DONT+FORGET-GIVE+STAR+FOR+ENCOURAGE-US`" alt="">
-
-
--------⭐
+color=00008&center=true&vcenter=true&multiline=false&lines=`THANK+YOU+FOR+FORK+AND+DONT+FORGET-GIVE+STAR+FOR+ENCOURAGE-US`" alt="">
+ ⭐
