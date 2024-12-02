@@ -8,25 +8,25 @@ module.exports = {
     /**
      * bot details and parameters
      */
-    botname: process.env.BotName || "Qᴜᴇᴇɴ ᴀɴʏᴀ ᴠ2",
-    footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 𝐐𝐮𝐞𝐞𝐧 𝐀𝐧𝐲𝐚 𝐁𝐨𝐭",
+    botname: process.env.BotName || "OKARUN MD",
+    footer: process.env.Footer || "© 𝐏𝐨𝐰𝐞𝐫𝐞𝐝 𝐁𝐲 CYBER TECH ☢️",
     prefa: process.env.Prefix || "-",
     themeemoji: process.env.ThemeEmoji || "🎐",
 
     /**
      * owner details and parameters
      */
-    ownername: process.env.Owner_Name || "Pika~Kun",
-    ownernumber: process.env.Owner_Number || "916900904828",
-    instagramId: process.env.Insta || "3.69_pika",
+    ownername: process.env.Owner_Name || "CYBER TECH ☢️",
+    ownernumber: process.env.Owner_Number || "2250565647864",
+    instagramId: process.env.Insta || "",
 
     /**
      * other details and parameters
      */
-    author: process.env.Author || "𝐏𝐢𝐤𝐚𝐁𝐨𝐭𝐳 🌚🌙",
-    packname: process.env.PackName || "𝕼𝖚𝖊𝖊𝖓 𝕬𝖓𝖞𝖆 𝖁2 𝕾𝖙𝖎𝖈𝖐𝖊𝖗 𝕻𝖆𝖈𝖐 🪀",
-    socialLink: process.env.Web || "https://github.com/PikaBotz",
-    groupLink: process.env.GcLink || "https://chat.whatsapp.com/E490r0wSpSr89XkCWeGtnX",
+    author: process.env.Author || "CYBER TECH ☢️",
+    packname: process.env.PackName || "CYBER TECH ☢️ sticker pack",
+    socialLink: process.env.Web || "https://github.com/MissAri1",
+    groupLink: process.env.GcLink || "https://chat.whatsapp.com/LCI0lWtfgOHE2lOyaBMxwE",
     warns: Number(process.env.Warn_Limits) || 3,
     cooldown: Number(process.env.Cooldown_Timer_Seconds) || 5, // default cooldown time per command in seconds
     mongoUrl: process.env.MongoDB || "YOUR_MONGODB_URL",
@@ -37,8 +37,8 @@ module.exports = {
      */
     image_1: readFileSync('./lib/Assets/image_1.jpg'), // primary image
     image_2: readFileSync('./lib/Assets/image_2.jpg'), // secondry image
-    imageUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image url, to replace to your url upload your image to https://imgbb.com
-    imageMentionUrl: "https://i.ibb.co/ZKKSZHT/Picsart-23-06-24-13-36-01-843.jpg", // image for mention reply audio media
+    imageUrl: "https://walpapercave.com/uwp4572692.jpeg", // image url, to replace to your url upload your image to https://imgbb.com
+    imageMentionUrl: "https://walpapercave.com/uwp4572692.jpeg", // image for mention reply audio media
     aliveMedia: readFileSync("./lib/Assets/aliveMedia.mp4"),
     menuMedia: readFileSync('./lib/Assets/menuMedia.mp4'),
     ownerMentionMp3: readFileSync('./lib/Assets/ownerMentionMp3.mp3'),  // audio for mention reply audio media
