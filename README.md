@@ -1,4 +1,4 @@
-### **OKARUN MD**
+### <p align="center>  **OKARUN MD**
 
 
 ```**WHATSAPP BOT MULTI DEVICE CODED BY CYBER TECH ☢️*```
@@ -53,14 +53,7 @@
 
 ------------
 
-`yaml
-
-## <p align="center">  `WHATSAPP`
-<a href='https://wa.me/2250565647864.com' target="_blank"><img
-alt='><[![`0565647864`]><a' src='https://img.shields.io/badge/WhatsApp-h?
-color=green&style=for-the-badge&logo=WhatsApp'/></a></p>
-</p>
-
+[![WhatsApp](https://img.shields.ios/badge/wha%20-me%20-green)](WhatsApp.com/+2250565647864/wa)
 ----------
 
 
