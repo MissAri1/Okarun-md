@@ -52,7 +52,7 @@
 
 ------------
 
-## [CALL AUTOR]
+## CALL AUTOR
 <a href='https://wa.me/0565647864.com' target="_blank"><img
 alt='CALL' src='https://img.shields.io/badge/WhatsApp-h?
 color=green&style=for-the-badge&logo=WhatsApp'/></a></p>
