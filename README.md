@@ -160,14 +160,10 @@ Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.o
 - [**᚛CYBER TECH ☢️᚜**]
 - [**ARIMA FORGER**]
 
--------
-
-
-
-
-
 
 <p align="center">
  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
  color=00008&center=true&vcenter=true&multiline=false&lines=`THANK+YOU+FOR+FORK+AND+DONT+FORGET-GIVE+STAR+FOR+ENCOURAGE-US`" alt="">
 
+
+-------⭐
