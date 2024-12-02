@@ -52,6 +52,5 @@
 
 ------------
 
-`[![https://wa.me/0565647864.com]
+## [![https:/te.me/0565647864.com]
 (https://img.shield.io/badge/wa20%-me20%-green)]
-(https://WhatsApp.com/+2250565647864/wha)
