@@ -47,11 +47,13 @@
 ---------------
 
 
-## <br>   DEPLOY IN RENDER
+## <p align="center"><br>   DEPLOY IN RENDER
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
 
 
 ------------
+
+`yaml
 
 ## <p align="center">  `WHATSAPP`
 <a href='https://wa.me/2250565647864.com' target="_blank"><img
