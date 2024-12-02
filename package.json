@@ -1,13 +1,13 @@
 {
-  "name": "queen_anya_ver.2",
+  "name": "okarun_md",
   "version": "2.1.2.2",
-  "description": "Anya_v2-MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
+  "description": "Okarun_MD is an efficient and versatile WhatsApp bot designed to streamline your messaging experience with innovative features and seamless automation.",
   "main": "index.js",
   "type": "commonjs",
   "scripts": {
     "start2": "node index",
     "start": "pm2 start index.js --attach --name anya-v2 --namespace production",
-    "stop": "pm2 stop anya-v2 --namespace production"
+    "stop": "pm2 stop okarun-md --namespace production"
   },
   "keywords": [
     "termux",
@@ -19,19 +19,19 @@
     "bot-md",
     "multi-device"
   ],
-  "homepage": "https://github.com/PikaBotz/Anya_v2-MD#readme",
+  "homepage": "github.com/lordhades-qp/okarun-md#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/PikaBotz/Anya_v2-MD"
+    "url": "git+github.com/lordhades-qp/okarun-md"
   },
   "bugs": {
-    "url": "https://github.com/PikaBotz/Anya_v2-MD/issues"
+    "url": "github.com/lordhades-qp/okarun-md/issues"
   },
-  "author": "Pika",
+  "author": "CYBER TECH ☢️",
   "license": "GPL-3.0",
   "dependencies": {
-    "@queenanya/baileys": "latest",
-    "@queenanya/invite": "latest",
+    "@okarun/baileys": "latest",
+    "@okarun/invite": "latest",
     "@bochilteam/scraper": "latest",
     "@babel/parser": "^7.24.8",
     "yt-search": "latest",
