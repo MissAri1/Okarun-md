@@ -1,18 +1,18 @@
-### <p align="center>  **OKARUN MD**
+### **OKARUN MD**
 
 
 ```**WHATSAPP BOT MULTI DEVICE CODED BY CYBER TECH ☢️*```
 
 
-
-![460676718_392018660637444_7340705730428309119_n](https://github.com/user-attachments/assets/60f7559d-141e-4f44-85c5-3e37066a7099)
-
+![uwp4572692](https://github.com/user-attachments/assets/bd2f07b0-eed0-4ce8-8386-c2310cafa59c)
 
 
 
 
 
-##           [![FORK OKARUN_MD](https://img.shields.io/badge/FORK%20-OKARUN%20MD-red)](github.com/Lordhades-qp/Okarun-md/fork)
+
+
+##           [![FORK OKARUN_MD](https://img.shields.io/badge/FORK%20-OKARUN%20MD-yellow)](github.com/Lordhades-qp/Okarun-md/fork)
 
 -------
 
@@ -35,7 +35,7 @@
 ### <br>    ❖ SESSION_ID ❖
 
 
-`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+237xxxxxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
+`✠ IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:+225xxxxxxxxx4 THEN YOU CAN GET YOUR SESSION_ID ✠`
 
 ----------
 . `USE SESSION `.
@@ -47,27 +47,19 @@
 ---------------
 
 
-## <p align="center"><br>   DEPLOY IN RENDER
+## <br>   DEPLOY IN RENDER
 <a href='https://dashboard.render.com' target="_blank"><img alt='DEPLOY' src='https://img.shields.io/badge/RENDER-h?color=maroon&style=for-the-badge&logo=render'/></a></p>
-
-
-------------
-
-[![WhatsApp](https://img.shields.ios/badge/wha%20-me%20-green)](WhatsApp.com/+2250565647864/wa)
-----------
-
-
-<p align="center"><h1>okarun.md</h1><br> </p>
-![banner](okarun.jpg)
 
 
 ----------
 
 
 - ## <br>  `**DÉPLOIEMENT SUR KOYEB**` :
-  1. Si vous n'avez pas de compte **Koyeb**, cliquez [**ici**](https://dashboard.koyeb.com/signup) pour en créer un.
+  1. Si vous n'avez pas de compte **Koyeb**, cliquez [**ici**https://dashboard.koyeb.com/signup) pour en créer un.
   2. Cliquez sur le bouton ci-dessous pour déployer sur Koyeb :<br>
      [![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?name=okarun md&type=docker&image=docker.io%2FCYBER TECH ☢️077%2Fokarunmd%3Alatest&env%5BPREFIXE%5D=.&env%5BLECTURE_AUTO_STATUS%5D=oui&env%5BTELECHARGER_AUTO_STATUS%5D=oui&env%5BNOM_BOT%5D=OKARUN-MD&env%5BLIENS_MENU%5D=https%3A%2F%2Fwallpapercave.com%2Fuwp%2Fuwpuwp4572692.jpeg&env%5BPM_PERMIT%5D=non&env%5BMODE_PUBLIC%5D=non&env%5BETAT%5D=1&env%5BSESSION_ID%5D=mettez+votre+session&env%5BNOM_OWNER%5D=CYBER TECH ☢️%2B%2B&env%5BNUMERO_OWNER%5D=2250565647864&env%5BWARN_COUNT%5D=3&env%5BSTARTING_BOT_MESSAGE%5D=oui&env%5BANTI_VUE_UNIQUE%5D=oui&env%5BPM_CHATBOT%5D=non&env%5BHEROKU%5D=non&env%5BDATABASE_URL%5D=mettez+une+database&env%5BANTI_COMMAND_SPAM%5D=non&ports=8000%3Bhttp%3B%2F)
+
+
 
 ## <br> <p align="center"> `**SUGGESTIONS DE DÉPLOIEMENT SUR RENDER**`.
 
@@ -150,9 +142,12 @@ jobs:
 ```
 
 
+
 ## <p align="center"> Licence 📜
 
 Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.org/licenses/MIT).
+
+
 
 
 ## Développeurs :
@@ -161,7 +156,7 @@ Le Bot WhatsApp OKARUN-MD est publié sous la [Licence MIT](https://opensource.o
 - [**ARIMA FORGER**]
 
 
-<p align="center">
+<p align="center">. [![`👉⭐👈`]
  <a href="#"><img src="http://readme-typing-svg.herokuapp.com?
 color=00008&center=true&vcenter=true&multiline=false&lines=`THANK+YOU+FOR+FORK+AND+DONT+FORGET-GIVE+STAR+FOR+ENCOURAGE-US`" alt="">
  ⭐
