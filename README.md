@@ -73,7 +73,7 @@
 ## <br> <p align="center"> `**SUGGESTIONS DE DÉPLOIEMENT SUR RENDER**`.
 
   1.Choisissez **Public Git Repository**.  
-  2. Dans le champ , entrez `https://gitlab.com/bankai421341/senbonzakura.git`.
+  2. Dans le champ , entrez `https://gitlab.com/arimaeternel/bankai.git`.
   3. Cliquez sur **Connect**.  
   4. Sélectionnez le **Free Plan** si vous ne voulez pas payer.  
   5. Dans la section **environemment variable**, cliquez sur 
